@@ -1,0 +1,5 @@
+1. The Terminal(Command line), is a non-graphical interface that allows developers to run commands and gives access to the device's operating system.
+
+2. Git is a tool used to manage source code while GitHub is a service for developers to share resources
+
+3. It has unlimited free public repositories as well as many other features to support developers
